@@ -11,7 +11,7 @@ More professionally relevant:
 * **Systems design**: [Dog Walking Service](https://github.com/rhargreaves/dog-walking) (AWS Lambda, Go, DynamoDB, Rekogition)
 * **More enterprisey systems design**: [URL Shortener](https://github.com/rhargreaves/url-shortener) (GCP, K8s) (work in progress!)
 
-Currently learning Go, C++23, HTTP/2
+Currently learning Go, C++23, HTTP/2, Audio Synthesis
 
 <!--
 - 🔭 I’m currently working on ...
