@@ -2,7 +2,7 @@
 
 Things I do / have done / find interesting:
 
-* **Retro Computing**: [Mega Drive MIDI Interface](https://github.com/rhargreaves/mega-drive-midi-interface) (C) & [CLI](https://github.com/rhargreaves/mdmi-cli) (Python), [serial port tooling](https://github.com/rhargreaves/mega-drive-serial-port). [ZX Spec TDD Framework](https://github.com/rhargreaves/zx-spec) (Z80 Assembly)
+* **Retro Computing**: [Mega Drive MIDI Interface](https://github.com/rhargreaves/mega-drive-midi-interface) (C) & [CLI](https://github.com/rhargreaves/mdmi-cli) (Python), [serial port tooling](https://github.com/rhargreaves/mega-drive-serial-port), [ZX Spec TDD Framework](https://github.com/rhargreaves/zx-spec) (Z80 Assembly)
 * **eBPF**: [Port Knocking](https://github.com/rhargreaves/knock-knock) (C, C++, Python)
 * **Audio**: [Mini Synth](https://github.com/rhargreaves/mini-synth) (C++, RtAudio)
 
