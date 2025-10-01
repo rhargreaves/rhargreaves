@@ -9,7 +9,7 @@ Things I do / have done / find interesting:
 More professionally relevant:
 
 * **Systems design**: [Dog Walking Service](https://github.com/rhargreaves/dog-walking) (AWS Lambda, Go, DynamoDB, Rekogition)
-* **More enterprisey systems design**: [URL Shortener](https://github.com/rhargreaves/url-shortener) (GCP, K8s) (work in progress!)
+* **More enterprisey systems design**: [URL Shortener](https://github.com/rhargreaves/url-shortener) (GCP, Kubernetes) (work in progress!)
 
 Currently learning Go, C++23, HTTP/2, Audio Synthesis
 
