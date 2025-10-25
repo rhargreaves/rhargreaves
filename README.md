@@ -1,18 +1,24 @@
 ## Hello! :wave: I code and stuff...
 
-Things I do / have done / find interesting:
+#### Things I do / have done / find interesting:
 
-* **Retro Computing**: [SEGA Mega Drive MIDI Interface](https://github.com/rhargreaves/mega-drive-midi-interface) (C) & [CLI](https://github.com/rhargreaves/mdmi-cli) (Python), [serial port tooling](https://github.com/rhargreaves/mega-drive-serial-port), [ZX Spec TDD Framework](https://github.com/rhargreaves/zx-spec) (Z80 Assembly)
 * **eBPF**: [Port Knocking](https://github.com/rhargreaves/knock-knock) (C, C++, Python)
-* **Audio**: [Mini Synth](https://github.com/rhargreaves/mini-synth) (C++, RtAudio)
-* **HTTP/2**: [Ion](https://github.com/rhargreaves/ion) (C++)
+* **HTTP/2**: [Ion HTTP/2 Server](https://github.com/rhargreaves/ion) (C++)
+* **Audio / Music**:
+  - [SEGA Mega Drive MIDI Interface](https://github.com/rhargreaves/mega-drive-midi-interface) (C) & [CLI](https://github.com/rhargreaves/mdmi-cli) (Python), 
+  - [Mini Synth](https://github.com/rhargreaves/mini-synth) (C++, RtAudio)
+* **Retro Computing**:
+  - [ZX Spec TDD Framework](https://github.com/rhargreaves/zx-spec) (Z80 Assembly)
+  - [Mega Drive Serial Port Tool](https://github.com/rhargreaves/mega-drive-serial-port) (C)
 
-More professionally relevant:
+#### Systems design:
 
-* **Systems design**: [Dog Walking Service](https://github.com/rhargreaves/dog-walking) (AWS Lambda, Go, DynamoDB, Rekogition)
-* **More enterprisey systems design**: [URL Shortener](https://github.com/rhargreaves/url-shortener) (GCP, Kubernetes) (work in progress!)
+* [Dog Walking Service](https://github.com/rhargreaves/dog-walking) (AWS Lambda, Go, DynamoDB, Rekogition)
+* [URL Shortener](https://github.com/rhargreaves/url-shortener) (GCP, Kubernetes) (work in progress!)
 
-Currently learning Go, C++23, HTTP/2, Audio Synthesis
+#### Currently learning: 
+
+C++23, Go, HTTP/2, Audio Synthesis
 
 <!--
 - 🔭 I’m currently working on ...
