@@ -1,6 +1,6 @@
 ## Hello! :wave: I code and stuff...
 
-#### Things I do / have done / find interesting:
+### Things I do / have done / find interesting:
 
 * **eBPF**: [Port Knocking](https://github.com/rhargreaves/knock-knock) (C, C++, Python)
 * **HTTP/2**: [Ion HTTP/2 Server](https://github.com/rhargreaves/ion) (C++)
@@ -9,16 +9,15 @@
   - [Mini Synth](https://github.com/rhargreaves/mini-synth) (C++, RtAudio)
 * **Retro Computing**:
   - [ZX Spec TDD Framework](https://github.com/rhargreaves/zx-spec) (Z80 Assembly)
-  - [Mega Drive Serial Port Tool](https://github.com/rhargreaves/mega-drive-serial-port) (C)
 
-#### Systems design:
+### Systems design:
 
 * [Dog Walking Service](https://github.com/rhargreaves/dog-walking) (AWS Lambda, Go, DynamoDB, Rekogition)
 * [URL Shortener](https://github.com/rhargreaves/url-shortener) (GCP, Kubernetes) (work in progress!)
 
-#### Currently learning: 
+### Currently learning: 
 
-C++23, Go, HTTP/2, Audio Synthesis
+C++23, Go, HTTP/2, Audio Synthesis, Kubernetes
 
 <!--
 - 🔭 I’m currently working on ...
