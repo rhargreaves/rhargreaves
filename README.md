@@ -6,7 +6,7 @@ Networking
 
 * HTTP/2: [Ion Server](https://github.com/rhargreaves/ion) (C++)
 * eBPF: [Port Knocking](https://github.com/rhargreaves/knock-knock) (C, C++, Python)
-* IPv6 abuse: [charon6](https://github.com/rhargreaves/charon6) (Rust)
+* IPv6: [charon6](https://github.com/rhargreaves/charon6) (Rust)
 
 Music
 
