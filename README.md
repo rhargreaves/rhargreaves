@@ -15,4 +15,4 @@ Music
     
 ### Currently learning: 
 
-C++23, Rust, Golang, Audio Synthesis
+Rust, Golang, Audio Synthesis
